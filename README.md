@@ -2,8 +2,8 @@
 
 > Explore GitHub developers and their public repositories using vanilla JavaScript.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Naman-Gudhka-1912.github.io/GitExplorer/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman-Gudhka-1912/GitExplorer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gudhka-naman-19.github.io/GitExplorer/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gudhka-naman-19/GitExplorer)
 
 ---
 
@@ -200,7 +200,7 @@ You only need:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Naman-Gudhka-1912/GitExplorer.git
+git clone https://github.com/gudhka-naman-19/GitExplorer.git
 ```
 
 ### 2. Navigate into the project
@@ -224,7 +224,7 @@ For example, using **VS Code Live Server**:
 
 ## 🔗 Live Demo
 
-**[Open GitExplorer →](https://Naman-Gudhka-1912.github.io/GitExplorer/)**
+**[Open GitExplorer →](https://gudhka-naman-19.github.io/GitExplorer/)**
 
 ---
 
